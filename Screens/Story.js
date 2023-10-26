@@ -26,6 +26,7 @@ const Screen2 = ({navigation}) => {
         styleAttr="Horizontal"
         indeterminate={false}
         progress={progress}
+        color="white"
       />
       </View>
       <View>
